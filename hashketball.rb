@@ -135,3 +135,5 @@ def num_points_scored(player_name, game)
     end
   end
 end
+
+puts num_points_scored(Jeff Adrien, game)
