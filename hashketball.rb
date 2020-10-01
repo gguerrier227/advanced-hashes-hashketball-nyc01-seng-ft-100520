@@ -135,4 +135,4 @@ def points_of_player(player_name, game)
     end
   end
 end
-puts num_points_scored("Jeff Adrien", "Charlotte_Hornets")
+puts num_points_scored("Jeff Adrien", game)
