@@ -1,5 +1,5 @@
 # Write your code below game_hash
-def game_hash
+def game
   {
     home: {
       team_name: "Brooklyn Nets",
