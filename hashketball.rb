@@ -136,4 +136,4 @@ def num_points_scored(player_name, game)
   end
 end
 
-put num_points_scored("Jeff Adrien",game_hash)
+puts num_points_scored("Jeff Adrien",game)
